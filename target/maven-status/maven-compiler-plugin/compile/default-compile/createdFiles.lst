@@ -1,0 +1,13 @@
+aplicacion\controlador\beans\forms\ProductoFormBean.class
+aplicacion\modelo\dominio\Dataorigen.class
+aplicacion\modelo\dominio\Datacolor.class
+aplicacion\modelo\util\ListaProducto.class
+aplicacion\interfaces\dao\imp\ProductoListDAOImp.class
+aplicacion\controlador\beans\forms\imagenesBean.class
+aplicacion\modelo\dominio\Datatipo.class
+aplicacion\modelo\dominio\Producto.class
+aplicacion\modelo\util\ListaDataproducto.class
+aplicacion\interfaces\dao\IDataproductoDAO.class
+aplicacion\interfaces\dao\imp\DataproductoListDAOimp.class
+aplicacion\interfaces\dao\IProductoDAO.class
+aplicacion\modelo\dominio\Datatalle.class

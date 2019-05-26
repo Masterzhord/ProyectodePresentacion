@@ -1,0 +1,13 @@
+H:\productoLista\src\main\java\aplicacion\interfaces\dao\IDataproductoDAO.java
+H:\productoLista\src\main\java\aplicacion\modelo\dominio\Dataorigen.java
+H:\productoLista\src\main\java\aplicacion\modelo\dominio\Datatipo.java
+H:\productoLista\src\main\java\aplicacion\modelo\util\ListaProducto.java
+H:\productoLista\src\main\java\aplicacion\interfaces\dao\imp\ProductoListDAOImp.java
+H:\productoLista\src\main\java\aplicacion\controlador\beans\forms\imagenesBean.java
+H:\productoLista\src\main\java\aplicacion\modelo\dominio\Datatalle.java
+H:\productoLista\src\main\java\aplicacion\modelo\util\ListaDataproducto.java
+H:\productoLista\src\main\java\aplicacion\interfaces\dao\imp\DataproductoListDAOimp.java
+H:\productoLista\src\main\java\aplicacion\interfaces\dao\IProductoDAO.java
+H:\productoLista\src\main\java\aplicacion\modelo\dominio\Datacolor.java
+H:\productoLista\src\main\java\aplicacion\controlador\beans\forms\ProductoFormBean.java
+H:\productoLista\src\main\java\aplicacion\modelo\dominio\Producto.java
